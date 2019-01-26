@@ -1,3 +1,22 @@
+/*
+FEEDBACK
+
+Read from the file correctly: 17/20%
+Implement class hierarchy correctly: 20/20%
+Populate appropriate data structures with shape data: 13/15%
+Show list of shapes correctly: 15/15%
+Show specific shape properties correctly: 8/15%
+Well-structured, well-commented code: 10/15%
+
+
+Comments:
+  InterfaceShape should be an interface, not a class. No implementation here.
+  Null pointer exception reading the file (InterfaceShape.java:172)
+  No images shown, no shape details shown
+  
+*/
+
+
 /**
  * Exam_Java_Shapes
  * @author katherinne cruz
